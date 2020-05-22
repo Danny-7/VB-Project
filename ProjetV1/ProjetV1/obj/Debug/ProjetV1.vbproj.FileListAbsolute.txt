@@ -67,3 +67,22 @@ C:\Users\vivia\Documents\Cours DUTS2\Periode D\IHM\Projet\ProjetV4\ProjetV1\Proj
 C:\Users\vivia\Documents\Cours DUTS2\Periode D\IHM\Projet\ProjetV4\ProjetV1\ProjetV1\obj\Debug\ProjetV1.xml
 C:\Users\vivia\Documents\Cours DUTS2\Periode D\IHM\Projet\ProjetV4\ProjetV1\ProjetV1\obj\Debug\ProjetV1.pdb
 C:\Users\vivia\Documents\Cours DUTS2\Periode D\IHM\Projet\ProjetV4\ProjetV1\ProjetV1\obj\Debug\ProjetV1.FormBilanMatière.resources
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.vbprojAssemblyReference.cache
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.FormAccueil.resources
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.FormBilan.resources
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.FormBilanMatière.resources
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.FormCandid.resources
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.FormEpv.resources
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.FormEtatInsc.resources
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.FormModifSuppr.resources
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.FormRecap.resources
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.Resources.resources
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.vbproj.GenerateResource.cache
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.vbproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.exe
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.xml
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\obj\Debug\ProjetV1.pdb
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\bin\Debug\ProjetV1.exe.config
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\bin\Debug\ProjetV1.exe
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\bin\Debug\ProjetV1.pdb
+C:\Users\Danny\Documents\DUT Info\S2\IHM_VB\code\VB-Project\ProjetV1\ProjetV1\bin\Debug\ProjetV1.xml
