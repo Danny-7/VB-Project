@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Vérifiez les valeurs des attributs de l'assembly
 
-<Assembly: AssemblyTitle("ProjetV1")>
+<Assembly: AssemblyTitle("VB-App-Inscription")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("ProjetV1")>
+<Assembly: AssemblyProduct("VB-App-Inscription")>
 <Assembly: AssemblyCopyright("Copyright ©  2020")>
 <Assembly: AssemblyTrademark("")>
 
