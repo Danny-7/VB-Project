@@ -12,7 +12,7 @@ enregistrer dans des fichiers .txt.
 3. Afficher l’état actuel des inscriptions
 4. Établir un bilan provisoire des inscriptions
 5. Clore les inscriptions
-6. Fermer l’application sans clore les inscription
+6. Fermer l’application sans clore les inscriptions
 
 ## Crédits 
 
